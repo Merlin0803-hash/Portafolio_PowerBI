@@ -2,6 +2,7 @@
 Welcome to my Power BI portafolio!
 
 ## 📊 Projects
+TecnoMex_SalesAnalysis
 
 ## 🚀 Features
 - Interactive **Power BI dashboards** for in-depth analysis.

@@ -1,4 +1,4 @@
-# Portafolio_PowerBI
+# Portafolio_DataScientist
 Welcome to my Power BI portafolio!
 
 ## 📊 Projects
